@@ -110,3 +110,18 @@ ________________________________________________________________________________
 *compiled code portability: compiled code can be moved to any other OS
 * optimized time and space consumptions during runtime
 _______________________________________________________________________________________________________________________
+**************OOPS Features*************
+*classes:it has common entity like attributes, behaviors 
+*objects:specific examples of entity
+*encaptulation: tablet capsules: combining data and core in one unit is called encaptulation
+                              -->grouping classes and objects in one unit 
+*inheritance:aquring properties from parent(supercalss) class to child(suclass) class is celled inheritance
+ ---> single
+ ---> multiple
+ --->
+
+ advantages : code reusability
+              length of code can be reduced by using classe and inheritance
+*Abstraction:providing access for the necessery members to class
+*polymorphism
+*
