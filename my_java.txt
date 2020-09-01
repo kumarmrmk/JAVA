@@ -111,8 +111,8 @@ ________________________________________________________________________________
 * optimized time and space consumptions during runtime
 _______________________________________________________________________________________________________________________
 **************OOPS Features*************
-*classes:it has common entity like attributes, behaviors 
-*objects:specific examples of entity
+*classes(DESIGNED ENTITY):it has common entity like attributes, behaviors 
+*objects(RUN TIME ENTITY):specific examples of entity
 *encaptulation: tablet capsules: combining data and core in one unit is called encaptulation
                               -->grouping classes and objects in one unit 
 *inheritance:aquring properties from parent(supercalss) class to child(suclass) class is celled inheritance
@@ -123,5 +123,20 @@ ________________________________________________________________________________
  advantages : code reusability
               length of code can be reduced by using classe and inheritance
 *Abstraction:providing access for the necessery members to class
-*polymorphism
-*
+*polymorphism: allow user to perform single action in many ways
+              -->enables us to defiine single interface and implement in different ways
+    types:-->compile time : static or early binding   1)method overloading:uses same method with different signatures 4 diff purposes
+                                                      2)operator overloading: uses same operator on diff types of operands
+          --> runtime: dynamic or late binding  
+                   type: method overriding"using same method for different purposes with same signature
+__________________________________________________________________________________________________________________________
+
+
+                   *****************SIMPLE JAVA PROGRAM********************
+
+*Java is case sensitive
+*program should be saved with .java extension
+*the program name and main class name shouls be same 
+*the class which has main method is called main class
+*every program must contain at least one method which is main method
+*program begins its execution with call  to main
